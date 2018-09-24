@@ -1,0 +1,6 @@
+c:\users\mikhail.terentiev\documents\visual studio 2017\Projects\MathTraining\MathTraining\bin\Debug\MathTraining.exe.config
+c:\users\mikhail.terentiev\documents\visual studio 2017\Projects\MathTraining\MathTraining\bin\Debug\MathTraining.exe
+c:\users\mikhail.terentiev\documents\visual studio 2017\Projects\MathTraining\MathTraining\bin\Debug\MathTraining.pdb
+c:\users\mikhail.terentiev\documents\visual studio 2017\Projects\MathTraining\MathTraining\obj\Debug\MathTraining.exe
+c:\users\mikhail.terentiev\documents\visual studio 2017\Projects\MathTraining\MathTraining\obj\Debug\MathTraining.pdb
+c:\users\mikhail.terentiev\documents\visual studio 2017\Projects\MathTraining\MathTraining\obj\Debug\MathTraining.csprojResolveAssemblyReference.cache
